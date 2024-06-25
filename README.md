@@ -3,13 +3,11 @@ get_next_line
 </h1>
 
 <h3 align="center">
-  <a href="#about">About</a>
+  <a href="## About">About</a>
   <span> · </span>
-  <a href="#usage">Usage</a>
+  <a href="## Usage">Usage</a>
   <span> · </span>
-  <a href="#testing">Testing</a>
-  <span> · </span>
-  <a href="#bonus">Bonus</a>
+
 </h3>
 
 ---
